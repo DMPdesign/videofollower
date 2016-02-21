@@ -3,8 +3,8 @@
  *
  *  Created on: 21/nov/2015
  *      Author: Dazzi Martino,
- *      		Mele Leandro Julian,
- *      		Pilotto Alessandro
+ 		Mele Leandro Julian,
+ 		Pilotto Alessandro
  *
  *              Università degli Studi di Udine,
  *              Via delle Scienze 208,
